@@ -1,0 +1,38 @@
+/* définition de la police de base et de la taille de police */
+body {
+    font-family: Arial, sans-serif;
+    font-size: 16px;
+}
+
+/* centrer le titre */
+h1 {
+    text-align: center;
+    margin-top: 50px;
+}
+
+
+/* centrer les boutons */
+button {
+    display: block;
+    margin: 20px auto;
+    padding: 10px 20px;
+    background-color: #4CAF50;
+    color: rgb(229, 255, 0);
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    font-size: 18px;
+}
+
+a {
+    font-size: inherit;
+}
+
+
+html {
+    border-top: 247px solid rgba(86, 231, 13, 0.3);
+    border-right: 247px solid rgba(86, 231, 13, 0.3);
+    border-bottom: 247px solid rgba(86, 231, 13, 0.3);
+    border-left: 247px solid rgba(86, 231, 13, 0.3);
+  }
+
